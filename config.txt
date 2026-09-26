@@ -1,2 +1,4 @@
 Application = College Management System
-Version = 2.0
+Version = 1.1
+
+
